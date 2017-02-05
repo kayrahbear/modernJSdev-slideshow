@@ -27,3 +27,9 @@ Slideshows should have the following features:
 1. Make awesome Slideshow
 2. Be awesome
 3. More awesome
+
+------
+
+###Project Information
+
+    - Project utilizes Grunt and jsHint to watch .js files. Information included in lib folder.
